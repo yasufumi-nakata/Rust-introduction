@@ -1,0 +1,1 @@
+/Users/nakatayasufumi/Dropbox\ (SFC-CNS)/My\ Mac\ (nakatayasushinoMacBook-Air.local)/Documents/GitHub/Rust-introduction/hello/target/debug/hello: /Users/nakatayasufumi/Dropbox\ (SFC-CNS)/My\ Mac\ (nakatayasushinoMacBook-Air.local)/Documents/GitHub/Rust-introduction/hello/src/main.rs
